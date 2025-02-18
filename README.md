@@ -1,6 +1,7 @@
 # Hands-On Localization -- FEKFSLAM
 
-Sawera Yaseen & Vania Katherine Mulia
+* Sawera Yaseen
+* Vania Katherine Mulia
 
 ## Guide to working with Github
 _NOTE: delete this before submitting!_
